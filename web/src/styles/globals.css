@@ -1,0 +1,28 @@
+:root {
+  --background: #ededed;
+  --background-primary: #fff;
+  --text-title: #555;
+  --text-subtitle: #999;
+  --border: #eee;
+  --border-dark: #ddd;
+  --brand-color: #f0f0f0;
+  --brand-green: #00a650;
+}
+
+body,
+html {
+  background: var(--background);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  width: 90%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
