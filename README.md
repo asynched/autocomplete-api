@@ -2,6 +2,10 @@
 
 An autocomplete API powered by Rust and NodeJS.
 
+## Preview
+
+![Preview of the front-end application](preview/thumbnail.jpeg)
+
 ## About the project
 
 This is meant to be a realtime API for a list of indexed products, in the root folders you can see 3 main ones:
